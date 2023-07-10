@@ -25,5 +25,8 @@ A simple Flutter quiz app that tests your knowledge of Flutter.
 ## Contributions
 
 Contributions are welcome! Please open an issue or a pull request if you have any changes or improvements.
-
-
+<div>
+<img src ="https://github.com/RanaEssam03/quiz_app/blob/main/screenshots/Screenshot_1688970043.png" style="width:30%" >
+<img src = "https://github.com/RanaEssam03/quiz_app/blob/main/screenshots/Screenshot_1688970875.png"  style="width:30%">
+<img src = "https://github.com/RanaEssam03/quiz_app/blob/main/screenshots/Screenshot_1688970893.png"  style="width:30%">
+</div>
